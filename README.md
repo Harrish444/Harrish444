@@ -1,6 +1,6 @@
 # Hi 👋, I'm Harrish
 
-🎓 3rd Year CSBS Student at Thiagarajar College of Engineering
+🎓 4th Year CSBS Student at Thiagarajar College of Engineering
 
 💻 Passionate about Web Development and Problem Solving
 
@@ -15,8 +15,8 @@
 - Git & GitHub
 
 ## 📫 Connect with Me
-- LinkedIn: Add your LinkedIn profile link
-- Email: your-email@example.com
+- LinkedIn: https://www.linkedin.com/in/harrish-em-267786346
+- Email: harrishem406@gmail.com
 
 ## 🚀 Goals
 - Crack Product-Based Company Interviews
